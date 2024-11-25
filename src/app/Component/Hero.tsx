@@ -13,11 +13,11 @@ const Hero = () => {
         {/* Text Section */}
         <div>
           <h1 className='text-[35px] md:text-[50px] text-white font-bold'>
-            HI, I'M <span className='text-yellow-400'>S.A.REHMAN!</span>
+            HI, I AM <span className='text-yellow-400'>S.A.REHMAN!</span>
           </h1>
           <TextEffect />
           <p className='mt-[1.5rem] text-[18px] text-[#ffffff92]'>
-            Hi! I’m a frontend developer passionate about creating engaging, responsive websites that deliver seamless user experiences.
+            Hi! I am a frontend developer passionate about creating engaging, responsive websites that deliver seamless user experiences.
             I focus on bringing ideas to life with clean, intuitive designs that work perfectly across all devices.
             Explore my work to see how I can help make your vision a reality!
           </p>

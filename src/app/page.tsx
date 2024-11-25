@@ -3,7 +3,6 @@
 import { useEffect, useState } from 'react';
 import Nav from './Component/Nav';
 import MobileNav from './Component/MobileNav';
-import Hero from './Component/Hero';
 import About from './Component/About';
 import Services from './Component/Services';
 import Skills from './Component/Skills';
@@ -11,6 +10,7 @@ import Projects from './Component/Projects';
 import Footer from './Component/Footer';
 import AOS from 'aos';
 import 'aos/dist/aos.css'; // You can also use <link> for styles
+import Hero from './Component/Hero';
 
 const HomePage = () => {
   const [nav, setNav] = useState(false);
